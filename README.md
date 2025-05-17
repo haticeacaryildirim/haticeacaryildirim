@@ -1,4 +1,4 @@
-# Merhaba, ben Hatice Acaryıldırım!
+# Merhaba, ben Hatice Acar Yıldırım!
 
 Veri bilimi, yapay zekâ ve istatistik alanlarına tutkuyla bağlı bir veri bilimcisiyim. Analitik düşünme becerimle veriyi anlamlı içgörülere dönüştürmeyi, öğrendiklerimi paylaşarak hem kendimi hem de topluluğu geliştirmeyi seviyorum.
 
