@@ -4,12 +4,13 @@ Veri bilimi, yapay zekâ ve istatistik alanlarına tutkuyla bağlı bir veri bil
 
 ## Hakkımda
 
-- **Eğitim:** [Eğitim bilgini buraya ekle — örn: Miuul Veri Bilimi Bootcamp Mezunu]
+- **Eğitim:** [İstanbul Üniversitesi- Yüksek İnşaat Mühendisi, Miuul Veri Bilimi Bootcamp Mezunu]
 - **Uzmanlık Alanlarım:**
   - Müşteri segmentasyonu & A/B Testleri
   - Zaman serileri analizi
   - Özellik mühendisliği (feature engineering)
   - Python, SQL, Pandas, Scikit-learn, Matplotlib
+  - Makine Öğrenmesi
 
 ## Aktif Olduğum Platformlar
 
@@ -22,7 +23,6 @@ Veri bilimi, yapay zekâ ve istatistik alanlarına tutkuyla bağlı bir veri bil
 - Gerçek veri setleriyle yapılmış proje dosyaları
 - Detaylı Jupyter Notebook anlatımları
 - Blog yazılarımın destekleyici kodları
-- Açık kaynak katkılarım (ileride planlanabilir)
 
 ## Hedeflerim
 
